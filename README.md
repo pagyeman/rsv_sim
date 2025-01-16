@@ -13,6 +13,9 @@ To facilitate calculations there are always 52 weeks. Historical data from years
 - season.nr = denotes an individual season (week 27 of previous year until week 26 of current year)
 
 The code is written in R using the following packages:
+
 'here' and 'data.table' as a backbone to do data wrangling.
+
 'broom', 'extraDistr', and 'purrr' for the simulation.
+
 'ggplot2', 'patchwork' and 'gt' to present results.
